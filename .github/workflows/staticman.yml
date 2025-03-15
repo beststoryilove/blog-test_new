@@ -1,5 +1,0 @@
-comments:
-  allowedFields: ["name", "email", "message", "character"]
-  requiredFields: ["name", "email", "message"]
-  branch: "main"
-  commitMessage: "New comment by {fields.name}"
