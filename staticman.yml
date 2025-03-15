@@ -1,0 +1,6 @@
+comments:
+  allowedFields: ["name", "email", "message", "character"]
+  requiredFields: ["name", "email", "message"]
+  branch: "main"
+  moderation: true  # 启用评论审核
+  :cite[1]
